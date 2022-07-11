@@ -26,7 +26,7 @@
         },
         "ALIVE_NAME": {
             "description": "Required for bot owner details.",
-            "value": "ᴀɴᴋɪᴛ 🇮🇳 [ᴏꜰꜰʟɪɴᴇ]"
+            "value": "ᴀɴᴋɪᴛ 🇮🇳"
         },
         "LOGGER_GROUP": {
             "description": " Add ur bot in a private group and fill this var with group id no.",
