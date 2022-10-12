@@ -22,7 +22,7 @@
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "5661322133:AAH7Dn-SED9YmQg7Io_5MRJ2OrWAiATozz4"
+            "value": "5468395848:AAET7JB2Jl9lkflgUcEjB5jhPBrmXoyWMpk"
         },
         "ALIVE_NAME": {
             "description": "Required for bot owner details.",
